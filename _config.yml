@@ -1,0 +1,25 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: On-Demand-Scenarios
+layout_spectrum: 0.5751374734099954
+typography_spectrum: 0.8885027873329818
+color:
+  brandStrength: 0.6107399531174451
+  lightness: 0.7610085343476385
+  saturation: 0.026634225388988853
+  rhythmicContrast: 0.2867394534405321
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+content: []
+title: On Demand Labs
+description: ''
+github: true
